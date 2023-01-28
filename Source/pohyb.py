@@ -1,5 +1,5 @@
 # import the Veze module from the Source package
-from Source.Veze import *
+from Source.VezeADisky import *
 import time
 
 # move_disc function to move disc from start to end
