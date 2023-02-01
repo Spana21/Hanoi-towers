@@ -1,4 +1,4 @@
-from Projekt.Models.ClassSloupce import *
+from Models.ClassSloupce import *
 import time
 
 
