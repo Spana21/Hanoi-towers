@@ -1,5 +1,5 @@
-from Projekt.Models.ClassDiscIni import *
-from Projekt.Models.ClassSloupce import *
+from Models.ClassDiscIni import *
+from Models.ClassSloupce import *
 
 class Disky():
     def __init__(self, number):
