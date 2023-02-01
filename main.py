@@ -1,5 +1,5 @@
-from Projekt.Models.ClassDisky import *
-from Projekt.Models.Sloupce import *
+from Models.ClassDisky import *
+from Models.Sloupce import *
 
 
 def main():
