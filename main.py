@@ -3,10 +3,11 @@ from Models.Sloupce import *
 
 
 def main():
-
+    
+    base()
     number = int(input("Kolik disku? (max 7): "))
     pocet = int(input("Kolik sloupcu?(3 nebo 4): "))
-
+    
 
     Disky(number)
 
