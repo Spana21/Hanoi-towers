@@ -1,4 +1,4 @@
-from Projekt.Models.Pohyb import *
+from Models.Pohyb import *
 
 
 def Sloupce4(sloupec, number):
