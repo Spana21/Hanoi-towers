@@ -1,4 +1,4 @@
-from Projekt.Models.Vykresleni import *
+from Models.Vykresleni import *
 
 # Disc object
 class Disc(turtle.Turtle):
