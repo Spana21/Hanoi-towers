@@ -8,5 +8,5 @@ Hlavní body programu:
 
 Body k budoucímu zpracování:
 1.	Vytvořit tlačítko, které by spustilo animaci. Dále vytvořit textboxy, kde by uživatel psal dané parametry. (Využít tkinter)
-2.	Uživatel by si mohl vybrat, na kterém sloupců by disky začaly.
+2.	Uživatel by si mohl vybrat, na kterém sloupci by disky začaly.
 3.	Přidat více sloupců 
