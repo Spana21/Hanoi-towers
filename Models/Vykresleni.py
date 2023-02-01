@@ -6,19 +6,17 @@ def run_turtle(win):
     win.tracer(0)  # aby se to hned vsechno vykreslilo
 
 
-    # base object
+def update_turtle():
+    win = turtle.Screen()
+    win.update()
+
+# base object
+def base():
     base = turtle.Turtle()
     base.color('gray')  # color
     base.shape('square')
     base.goto(0, -200)  # souradnice
     base.shapesize(1, 45)
-
-def update_turtle():
-    win = turtle.Screen()
-    win.update()
-
-
-
 
 
 
