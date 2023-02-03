@@ -5,3 +5,7 @@ Hlavní body programu:
 2.	Uživatel si před animaci zvolí: počet disku, zda chce pracovat se 3 nebo 4 sloupci, a na jaký sloupec se disky mají přemístit
 3.	Následně proběhne animace a vyřešeni hlavolamu.
 
+TODO
+1.  Vytvořit tlačítko, které by spustilo animaci. Dále vytvořit textboxy, kde by uživatel psal dané parametry. (Využít tkinter)
+2.  Uživatel by si mohl vybrat, na kterém sloupci by disky začaly.
+3.  Přidat více sloupců
