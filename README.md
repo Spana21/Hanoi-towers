@@ -8,4 +8,5 @@ Hlavní body programu:
 TODO
 1.  Vytvořit tlačítko, které by spustilo animaci. Dále vytvořit textboxy, kde by uživatel psal dané parametry. (Využít tkinter)
 2.  Uživatel by si mohl vybrat, na kterém sloupci by disky začaly.
-3.  Přidat více sloupců
+3.  Předělat funkcí hanoi tak, abyc mohla pracovat s n-sloupcy.
+4.  Vykresli pouze tolik sloupců, s kolika bude chtít uživatel pracovat
